@@ -1,0 +1,92 @@
+SenseMap – Privacy Policy 
+
+Last updated: 27th November, 2025
+
+SenseMap (“the App”, “we”, “our”, or “us”) is an ambient awareness application that helps you better understand your surroundings using your device’s sensors. This Privacy Policy explains how the App handles information and what data is (and is not) collected.
+
+1. Information We Collect
+
+As of version 1.0, SenseMap is designed to process data on your device only. We do not collect, store, or share personally identifiable information.
+
+The App may access the following types of data on your device:
+
+Microphone (audio level only)
+
+Permission: RECORD_AUDIO
+
+Used to measure surrounding noise levels (e.g., quiet, moderate, loud).
+
+The App does not record, save, or upload raw audio.
+
+Motion and device sensors
+
+Examples: accelerometer, gyroscope, motion/activity data.
+
+Used to determine whether the device is relatively still or in motion and to drive visualizations.
+
+Light sensor
+
+Used to estimate ambient brightness (e.g., dark, dim, bright) and adapt reflections or visuals.
+
+This sensor data is used in real time to generate on-screen visuals and text. It is not linked to your identity.
+
+2. How We Use Information
+
+The data accessed by SenseMap is used solely to:
+
+Display live visual effects and text that reflect your current environment
+
+Adjust the app experience (for example, changing ripples or labels based on noise, light, or motion levels)
+
+We do not:
+
+Create user profiles
+
+Track you across other apps or services
+
+Sell or share your data with third parties
+
+3. Data Storage and Retention
+
+SenseMap does not store raw audio recordings.
+
+Sensor readings are processed temporarily in memory to update the screen and are not stored in a way that can identify you.
+
+If the App offers optional “reflections” history in future versions, those entries will be stored locally on your device and can be cleared by you.
+
+We do not maintain external servers that store your personal data for this version of the app.
+
+4. Third-Party Services
+
+SenseMap does not currently integrate with third-party analytics, advertising networks, or external tracking tools.
+
+If we add any third-party services in future updates, this Privacy Policy will be updated to describe what is used and for what purpose.
+
+5. Permissions
+
+The App may request the following permissions:
+
+Microphone (RECORD_AUDIO)
+Used to measure surrounding noise level for ambient feedback. Audio is not recorded or stored.
+
+Body/motion/activity sensors
+Used to determine whether the device is moving or still.
+
+Other basic permissions (e.g., vibration, wake lock)
+Used to keep the app responsive and provide haptic or visual feedback.
+
+You can manage these permissions at any time in your device settings. If you revoke certain permissions, some features of the App may not function properly.
+
+6. Children’s Privacy
+
+SenseMap is intended for general audiences and is not designed specifically for children. We do not knowingly collect personal information from children. If you believe that a child has provided us with personal data, please contact us so we can take appropriate action.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we make changes, we will update the “Last updated” date at the top of this page. Your continued use of the App after changes are posted means you accept the updated Policy.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy or how the App handles data, you can contact us at:
+
+varun.kapoor1947@gmail.com
